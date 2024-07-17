@@ -1,0 +1,38 @@
+{
+  "name": "mr95-quiz-app",
+  "version": "1.0.0",
+  "description": "This is a CLI based quiz app.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quiz app",
+    "quiz game",
+    "trivia app",
+    "education app",
+    "quiz platform",
+    "multiple choice quiz",
+    "questionnaire app",
+    "interactive quizzes",
+    "learning app",
+    "test preparation",
+    "quiz competition",
+    "online quiz app",
+    "quiz builder",
+    "quiz app project",
+    "quiz app development"
+  ],
+  "author": "Mariam Rauf",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.11"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.3.2"
+  }
+}
